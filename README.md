@@ -26,10 +26,14 @@ By the end of this session, learners will be able to:
 
 ### 💻 Technologies Used
 
-1. Visual Studio Code
-1. GitHub Copilot
-1. MSSQL extension for Visual Studio Code
-1. GitHub Copilot for Azure extension
+1. [Visual Studio Code](https://code.visualstudio.com/)
+1. [GitHub Copilot](https://github.com/features/copilot)
+1. [MSSQL extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)
+1. [GitHub Copilot for Azure extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot)
+
+### 🚀 Getting Started
+
+At Ignite, a virtual environment with all prerequisites and required accounts is provided for this lab. To run this lab outside of Ignite, follow the [setup instructions](https://gh.io/lab510-msignite25).
 
 ## Content Owners
 
